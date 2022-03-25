@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+button
+{
+	paddind:20px 26px;
+    background-color:DeepSkyBlue;
+    border:0px black solid;
+    color:white;
+    border-radius: 3px;
+}  
+.a{
+background-color:DangerBlue;
+}
+
+.b{
+background-color:#888888;
+}
+.c{
+background-color:Green;
+}
+.d{
+background-color:Orange;
+}
+.e{
+background-color:SkyBlue;
+}
+
+</style>
+</head>
+<body>
+
+<button class="a">a</button>
+<button class="b">b</button>
+<button class="c">c</button>
+<button class="d">d</button>
+<button class="w">e</button>
+
+
+</body>
+</html>
