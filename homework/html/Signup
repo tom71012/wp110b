@@ -38,11 +38,22 @@ input[type=text],input[type=password]{
 a{
 	color:DodgerBlue;
 }
-    
+
 </style>
 </head>
-<body>
 
+<style>
+img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+</style>
+
+
+<body>
+<img src="img_tree.png">
 <div>
 <form>
 <h2>Signup</h2>
@@ -68,3 +79,4 @@ a{
 </div>
 </body>
 </html>
+
