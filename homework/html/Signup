@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+button
+{
+	paddind:20px px;
+    background-color:DeepSkyBlue;
+    border:0px black solid;
+    color:white;
+    border-radius: 3px;
+}  
+.a{
+background-color:DangerBlue;
+}
+
+.b{
+background-color:#888888;
+}
+.c{
+background-color:Green;
+}
+.d{
+background-color:Orange;
+}
+.e{
+background-color:SkyBlue;
+}
+div{
+width:100%;
+text-align:center;
+}
+input[type=text],input[type=password]{
+	padding;8px 14px;
+    width:200px;
+    border-radius:5px;
+}
+a{
+	color:DodgerBlue;
+}
+    
+</style>
+</head>
+<body>
+
+<div>
+<form>
+<h2>Signup</h2>
+<p><input type="text" name="name" value="" placeholder="Enter your name"/></p>
+<p><input type="text" name="email" value="" placeholder="Enter your email"/></p>
+<p><input type="text" name="name" value="" placeholder="Enter your name again"/></p>
+<p><input type="password" name="password" value="" placeholder="Creat a password"/></p>
+<p><input type="password" name="password2" value="" placeholder="Retype your password again"/></p>
+<p>What is your gender?</p>
+
+<div class="radio-line">
+<label><input type="radio" name="optradio">Male</label>
+<label><input type="radio" name="optradio">Female</label>
+</div>
+
+
+
+
+<p><input type="checkbox" name="agree">I agree all statements in <a herf="">Terms of service</a></p>
+
+<button class="primary">Signup</button>
+</form>
+</div>
+</body>
+</html>
