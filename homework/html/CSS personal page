@@ -1,0 +1,40 @@
+  <!DOCTYPE html>
+  <html>
+  <head>
+  <style>
+       
+        table,tr,td,th
+        {
+            border: 2px solid black;
+            border-collapse: collapse;
+        }    
+        .center{text-align: center;}    
+  </style>
+  </head>
+  <body>
+  <div class="center">
+    <body style="background-color:rgb(150, 220, 250);">
+    <h1>吳承泰的網站<h1>
+    <h4>Email: rrrr2098@yahoo.com</h4>
+    <h4>生日: 2003/0/23</h4>
+    
+    
+        <table align="center" cellpadding="8" ><br>
+        <h2>求學過程</h2>
+        <tr>
+            <th>國小</th>
+            <th>國中</th>
+            <th>高中</th>
+            <th>大學</th>
+        </tr>
+        <tr>
+            <td>成功國小</td>
+            <td>桃園國中</td>
+            <td>永豐高中</td>
+            <td>金門大學資訊工程學系</td>
+        </tr>
+    </table>
+    <h2>興趣:</h2>
+    <p>打傳說、烹飪</p>
+    <img src="https://th.bing.com/th/id/OIP.kra5vfOk1bx54XNDaNMxhQHaEc?pid=ImgDet&rs=1"  alt="出不來" width="40%" height="40%">
+   </html>
