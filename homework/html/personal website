@@ -1,0 +1,18 @@
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <title>吳承泰 HOME PAGE</title>
+  </head>
+  <body>
+    <body style="text-align: left;background-color:#DAB2D3"></body>
+    <h3>吳承泰</h3>
+    <h4>Email: rrrr2098@yahoo.com</h4>
+    <h4>生日: 2003/0/23</h4>
+    <h4>興趣:</h4>
+    <p>打遊戲、烹飪</p>
+    <h4>就學經歷:</h4>
+    <p>桃園市桃園區成功國民小學</p>
+    <p>桃園市桃園區桃園國民中學</p>
+    <p>桃園市八德區永豐高級中學</p>
+    <p>國立金門大學 資訊工程學系</p>
+   </html>
