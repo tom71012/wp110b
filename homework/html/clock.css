@@ -1,4 +1,5 @@
 .clock {
+    background: #fff url(/images/posts/clocks/ios_clock.svg) no-repeat center;
     border-radius: 50%;
     border: 2vmin solid #000;
     background: #fff;
