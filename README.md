@@ -1,5 +1,5 @@
 # 課程:網頁設計 -- 期中報告
-
+## 部分參考:https://cssanimation.rocks/clocks/
 欄位 | 內容
 -----|--------
 學期 | 110 學年度下學期
@@ -10,7 +10,7 @@
 課程內容 | https://gitlab.com/ccc110/wp
 教材網址 | [陳鍾誠的網頁設計課程](https://kinmen6.com/root/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E8%AA%B2%E7%A8%8B/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/README.md)
 
-* 部分參考:https://cssanimation.rocks/clocks/
+
 
 ## 功能:
 * 圓形時鐘，可顯示現在時間。
